@@ -41,3 +41,10 @@ print(mylist)
 mylist.sort(reverse = True)
 
 print(mylist)
+
+yourlist = [0,-3,4,5,6,-6,9,-12,56,890,-356]
+mylist = []
+for i in yourlist:
+    if i > 0 :
+        mylist.append(i)
+print(mylist)  
