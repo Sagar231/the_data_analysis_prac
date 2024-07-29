@@ -1,0 +1,52 @@
+'''
+list few methods
+
+'''
+
+## what does it mean when we say 'return type'
+
+# l = [1,2,33,4,5]
+
+# x= l.pop(0)
+# print(l)
+# print(x)
+
+# x = l.sort()
+# print(l)
+# print(x)
+
+# x = sorted(l)
+# print(l)
+# print(x)
+
+# s = sum(l)
+# print(s)
+# print(l)
+
+# m = max(l)
+# print(m)
+# mi = min(l)
+# print(mi)
+
+# print(max(l))
+
+'''
+functions
+
+'''
+
+def myfunc():
+    print("hey it is my func")
+
+## calling the fucntion  => () <= calling
+# myfunc()
+
+
+#  fucntion arguments =>a,b
+def add(a,b):
+    print(a+b)
+
+add(2,5)
+add(10,8,2)
+
+# loops, data structures , functions, class , file handling , error handling
