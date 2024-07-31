@@ -50,3 +50,8 @@ add(2,5)
 add(10,8,2)
 
 # loops, data structures , functions, class , file handling , error handling
+mylist = [2,4,6,12,9,13,56,1]
+s = sorted(mylist)
+print(s)
+print(s[:4]) #gives first 4 (4 min)
+print(s[len(s)-4:]) #gives last 4(4 max)
