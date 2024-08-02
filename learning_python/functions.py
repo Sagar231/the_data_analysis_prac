@@ -55,3 +55,6 @@ s = sorted(mylist)
 print(s)
 print(s[:4]) #gives first 4 (4 min)
 print(s[len(s)-4:]) #gives last 4(4 max)
+
+def new(s):
+    print(s)
