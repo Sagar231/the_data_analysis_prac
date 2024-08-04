@@ -58,3 +58,5 @@ print(s[len(s)-4:]) #gives last 4(4 max)
 
 def new(s):
     print(s)
+
+
