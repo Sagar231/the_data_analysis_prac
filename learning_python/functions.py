@@ -60,3 +60,9 @@ def new(s):
     print(s)
 
 
+def evencnt(l):
+    cnt = 0
+    for i in l:
+        if i % 2==0:
+            cnt +=1
+    return cnt
