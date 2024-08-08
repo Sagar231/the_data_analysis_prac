@@ -66,3 +66,19 @@ def evencnt(l):
         if i % 2==0:
             cnt +=1
     return cnt
+
+
+'''
+error handling
+try
+except
+finally
+'''
+a = input("give 1st num: ")
+b = input("give 2nd num: ")
+try:
+   print(int(a)/int(b))
+except:
+    print("Invalid division")
+finally:
+    print("Your division ended, run the program again to do more divisions")
