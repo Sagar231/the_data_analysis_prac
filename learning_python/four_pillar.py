@@ -28,3 +28,17 @@ Sagar = Warrior("Goku")
 print(Ananya.abracadabra())
 print(Sagar.kamenameha())
 print(Ananya.hpincrease())
+
+
+'''
+
+polymorphism
+'''
+
+class Bird():
+    def fly(self):
+        return "flies"
+
+class Penguin(Bird):
+    def fly(self):
+        return "Dose not fly"
