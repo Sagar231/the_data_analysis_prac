@@ -81,3 +81,13 @@ while(the_game_playing):
         
     # toggle the flag to change the character in next term
     flag = not flag
+
+
+    '''
+    1.> ananya doesnt say that she can never do it,when i am teaching her to code, she always says that she cant do it just yet.
+2.> she listens and ask questions
+3.> whenever she is not being efficent enough she goes in turbo++ mode within the next few days
+4.> ananya is creative as hell i envy her criativity so fking True
+5.> she learns, like she doesnt realise this that she learns in a really fast pace, i wish she stops comparing herself with others
+    
+    '''
