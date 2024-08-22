@@ -1,3 +1,4 @@
 # the_data_analysis_prac
 This repo is a workspace for me and my friend to learn data analysis with python
 includes a lot of good projects with python as well
+Also some OOPs concept
